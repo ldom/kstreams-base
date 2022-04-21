@@ -1,0 +1,8 @@
+{"type":"record",
+  "name":"Username",
+  "namespace":"io.confluent.sample",
+  "fields": [
+    {"name": "userId", "type": "long" },
+    {"name":"name","type":"string"}
+  ]
+}
